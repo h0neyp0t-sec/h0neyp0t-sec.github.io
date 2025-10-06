@@ -72,8 +72,6 @@ params:
       url: "https://instagram.com/h0neyp0t.sec"
     - name: github
       url: "https://github.com/h0neyp0t-sec"
-    - name: email
-      url: mailto:test@test.com
   
   # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: h0neyp0t
