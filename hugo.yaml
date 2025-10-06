@@ -1,0 +1,93 @@
+baseURL: https://h0neyp0t-sec.github.io/
+languageCode: en-us
+title: Honeypot Sec
+theme: ["PaperMod"]
+
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
+
+mainsections: ["posts", "papermod"]
+
+menu: 
+  main:
+  - identifier: posts
+    name: Posts
+    url: /posts/
+    weight: 10
+  - identifier: about
+    name: About Me
+    url: /about/
+    weight: 20
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 30
+  - identifier: tags
+    name: Tags 
+    url: /tags/ 
+    weight: 40
+  - identifier: archive
+    name: Archives
+    url: /archives/
+    weight: 50
+
+
+params:
+  #Label
+  label:
+    text: "Honeypot Sec"
+    icon: logo.png
+    iconHeight: 38
+
+  #Favicon
+  assets:
+    favicon: "favicon_io/favicon.ico"
+    favicon16x16: "favicon_io/favicon-16x16.png"
+    favicon32x32: "favicon_io/favicon-32x32.png"
+    apple_touch_icon: "favicon_io/apple-touch-icon.png"
+    safari_pinned_tab: "favicon_io/favicon.ico"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome ! 👋"
+    subtitle: "I’m **h0neyp0t**, an **ethical hacker** sharing my passion for **cybersecurity** and **tech**. Let's connect.. but remember, *never stop learning*."     
+    imageUrl: avatar.jpg
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: avatar
+    buttons:
+      - name: Posts
+        url: /posts
+      - name: About Me
+        url: /about
+
+#  homeInfoParams:
+#    Title: "h0neyp0t"
+#    Content: Never stop learning my friend
+  socialIcons:
+    - name: instagram
+      url: "https://instagram.com/hOneyp0t.sec"
+    - name: github
+      url: "https://github.com/h0neyp0t-sec"
+    - name: email
+      url: mailto:test@test.com
+  
+  # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: h0neyp0t
+  # author: ["Me", "You"] # multiple authors
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  # ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  TocOpen: false
