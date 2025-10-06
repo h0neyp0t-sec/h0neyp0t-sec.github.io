@@ -3,12 +3,11 @@ languageCode: en-us
 title: Honeypot Sec
 theme: ["PaperMod"]
 
+mainSections: ["posts"]
 pagination:
   disableAliases: false
   pagerSize: 10
   path: page
-
-mainsections: ["posts", "papermod"]
 
 menu: 
   main:
