@@ -91,3 +91,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   TocOpen: false
+
+caches:
+  images:
+    dir: :cacheDir/images
