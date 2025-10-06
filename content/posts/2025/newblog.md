@@ -4,7 +4,6 @@ summary: I created a new blog...
 date: 2025-10-06
 categories: ["personal"]
 tags: ["personal"]
-draft: true
 ---
 Hello everyone ! 
 
