@@ -1,7 +1,7 @@
 ---
-title: "About Me"
+title: "Whoami"
 layout: "about"
-url: "/about/"
+url: "/whoami/"
 summary: about
 cover:
     image: "cover-aboutme.webp"
@@ -11,8 +11,6 @@ cover:
     responsiveImages: true
 showToc: false
 ---
-# Whoami
-
 Hello everyone ! This is **h0neyp0t**, and welcome to my blog.
 
 My passion lies in various topics including cybersecurity and system administration. As an **ethical hacker**, I specialize in both offensive and defensive security, making it my mission to share knowledge and insights in this critical field. This passion for teaching has led me to embrace **content creation**, which you can see in action on my Instagram account (**h0neyp0t.sec**) and this website.

@@ -16,21 +16,25 @@ menu:
     url: /posts/
     weight: 10
   - identifier: about
-    name: About Me
-    url: /about/
+    name: Whoami
+    url: /whoami/
     weight: 20
   - identifier: categories
     name: Categories
     url: /categories/
     weight: 30
-  - identifier: tags
-    name: Tags 
-    url: /tags/ 
-    weight: 40
+#  - identifier: tags
+#    name: Tags 
+#    url: /tags/ 
+#    weight: 40
   - identifier: archive
     name: Archives
     url: /archives/
     weight: 50
+  - identifier: search
+    name: Search
+    url: /search/
+    weight: 60
 
 
 params:
@@ -87,8 +91,14 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  TocOpen: false
+  TocOpen: true
 
 caches:
   images:
     dir: :cacheDir/images
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
