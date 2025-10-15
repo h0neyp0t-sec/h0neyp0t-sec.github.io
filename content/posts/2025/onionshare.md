@@ -1,12 +1,12 @@
 ---
 title: How To Send Sensitive Files On The Dark Net With OnionShare
 summary: "This article explains how to securely send sensitive files over the dark net using OnionShare. Learn step-by-step instructions and understand the importance of privacy and anonymity in digital communications."
-url: /2025/onionshare/
+url: posts/2025/onionshare/
 date: 2025-10-09
 categories: ["privacy"]
 tags: ["privacy", "onionshare", "dark net", "file sharing", "anonymity"]
 cover:
-  image:
+  image: 2025/onionshare/coveronionshare.png
   hidden: false
   responsiveImages: true
 ---
