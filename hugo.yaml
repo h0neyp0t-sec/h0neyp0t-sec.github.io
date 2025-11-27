@@ -65,7 +65,7 @@ params:
       - name: Posts
         url: /posts
       - name: About Me
-        url: /about
+        url: /whoami
 
 #  homeInfoParams:
 #    Title: "h0neyp0t"
