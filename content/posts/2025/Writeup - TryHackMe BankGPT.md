@@ -5,7 +5,7 @@ date: 2025-12-02
 categories:
   ["writeup"]
 tags:
-  ["ctf", "red teaming", "TryHackMe", "AI"]
+  ["ctf", "pentesting", "TryHackMe", "AI"]
 cover:
   image: 2025/bankgpt_writeup/cover.png
   hidden: false
