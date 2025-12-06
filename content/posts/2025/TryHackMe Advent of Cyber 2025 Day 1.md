@@ -1,6 +1,6 @@
 ---
-title: TryHackMe Advent of Cyber Day 1
-summary: Walkthrough of the TryHackMe Advent of Cyber Day 1 - Linux CLI Shells Bells.
+title: TryHackMe Advent of Cyber 2025 Day 1
+summary: Walkthrough of the TryHackMe Advent of Cyber 2025 Day 1 - Linux CLI Shells Bells.
 date: 2025-12-03
 categories:
   - walkthrough
@@ -8,8 +8,9 @@ tags:
   - linux
   - TryHackMe
   - ctf
+  - AdventOfCyber2025
 cover:
-  image: /2025/aoc_day_1/Advent_of_Cyber_Day_1_cover.png
+  image: /2025/aoc_2025_day_1/Advent_of_Cyber_Day_1_cover.png
   hidden: false
   responsiveImages: true
 draft: false
