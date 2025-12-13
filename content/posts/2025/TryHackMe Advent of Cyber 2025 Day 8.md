@@ -10,7 +10,7 @@ tags:
   - ctf
   - AdventOfCyber2025
 cover:
-  image: /2025/aoc_2025_day_7/Advent_of_Cyber_2025_Day_7_cover.png
+  image: /2025/aoc_2025_day_8/Advent_of_Cyber_2025_Day_8_cover.png
   hidden: false
   responsiveImages: true
 draft: false
