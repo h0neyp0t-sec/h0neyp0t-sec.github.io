@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Advent of Cyber 2025 Day 11
 summary: Walkthrough of the TryHackMe Advent of Cyber 2025 Day 11 - XSS - Merry XSSMas
-date: 2025-12-14
+date: 2025-12-14T14:00:00
 categories:
   - walkthrough
 tags:

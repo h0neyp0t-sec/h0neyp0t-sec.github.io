@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Advent of Cyber 2025 Day 12
 summary: Walkthrough of the TryHackMe Advent of Cyber 2025 Day 12 - Phishing - Phishmas Greetings
-date: 2025-12-14
+date: 2025-12-14T14:30:00
 categories:
   - walkthrough
 tags:
