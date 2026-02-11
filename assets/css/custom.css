@@ -1,32 +1,26 @@
-/* 1. Déclaration des polices */
+/* Déclaration des fichiers de police */
 @font-face {
-  font-family: 'JetBrains Mono';
-  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'JetBrains Mono';
+    src: url('/fonts/JetBrainsMono.woff2') format('woff2');  
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'JetBrains Mono';
-  src: url('/fonts/JetBrainsMono-Bold.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'JetBrains Mono';
+    src: url('/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
 }
 
-/* 2. Application globale sur tout le thème Blowfish */
-:root {
-  --font-family: 'JetBrains Mono', monospace;
-  --heading-font-family: 'JetBrains Mono', monospace;
-  --mono-font-family: 'JetBrains Mono', monospace;
+html, body {
+    font-family: 'JetBrains Mono', monospace !important;
 }
 
-/* 3. Rendu du code */
-code {
-  font-variant-ligatures: stylish;
-  -webkit-font-feature-settings: "liga" 1, "calt" 1;
-  font-feature-settings: "liga" 1, "calt" 1;
+code, pre, kbd, samp {
+    font-family: 'JetBrains Mono', monospace !important;
 }
 
 html {
