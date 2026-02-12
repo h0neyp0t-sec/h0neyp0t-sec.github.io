@@ -6,6 +6,7 @@ date: 2025-10-09
 categories: ["privacy"]
 tags: ["privacy", "onionshare", "dark net", "file sharing", "anonymity"]
 featureImage: "feature.png"
+#series: ["hacking"]
 ---
 
 My dear hackers, hello. ✌️

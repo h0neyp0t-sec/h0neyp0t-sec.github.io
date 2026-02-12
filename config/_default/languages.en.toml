@@ -16,13 +16,13 @@ title = "Honeypot Sec"
 
 [params.author]
 name = "h0neyp0t"
-email = "contact@honeypotsec.com"
-image = "avatar.jpg"
+email = "mailto@contact@honeypotsec.com"
+image = "avatar.webp"
 imageQuality = 100
 headline = "Never stop learning."
 bio = "I’m h0neyp0t, an ethical hacker sharing my passion for cybersecurity and tech. Let’s connect.. but remember, never stop learning."
 links = [
-  { email = "contact@honeypotsec.com" },
+  { email = "mailto:contact@honeypotsec.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
