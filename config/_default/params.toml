@@ -32,7 +32,7 @@ disableTextInHeader = true
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 

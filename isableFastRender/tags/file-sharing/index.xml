@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>File Sharing on Honeypot Sec</title>
+    <link>http://localhost:1313/tags/file-sharing/</link>
+    <description>Recent content in File Sharing on Honeypot Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto@contact@honeypotsec.com (h0neyp0t)</managingEditor>
+    <webMaster>mailto@contact@honeypotsec.com (h0neyp0t)</webMaster>
+    <copyright>© 2026 h0neyp0t</copyright>
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/file-sharing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How To Send Sensitive Files On The Dark Net With OnionShare</title>
+      <link>http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/</guid>
+      <description>This article explains how to securely send sensitive files over the dark net using OnionShare. Learn step-by-step instructions and understand the importance of privacy and anonymity in digital communications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

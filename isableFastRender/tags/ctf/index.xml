@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ctf on Honeypot Sec</title>
+    <link>http://localhost:1313/tags/ctf/</link>
+    <description>Recent content in Ctf on Honeypot Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto@contact@honeypotsec.com (h0neyp0t)</managingEditor>
+    <webMaster>mailto@contact@honeypotsec.com (h0neyp0t)</webMaster>
+    <copyright>© 2026 h0neyp0t</copyright>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I Stopped My 101 Days TryHackMe Streak On Purpose And You Should Do The Same</title>
+      <link>http://localhost:1313/posts/i-stopped-my-101-days-tryhackme-streak-on-purpose-and-you-should-do-the-same/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/posts/i-stopped-my-101-days-tryhackme-streak-on-purpose-and-you-should-do-the-same/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

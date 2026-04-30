@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Honeypot Sec</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Honeypot Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto@contact@honeypotsec.com (h0neyp0t)</managingEditor>
+    <webMaster>mailto@contact@honeypotsec.com (h0neyp0t)</webMaster>
+    <copyright>© 2026 h0neyp0t</copyright>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ctf</title>
+      <link>http://localhost:1313/tags/ctf/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hackthebox</title>
+      <link>http://localhost:1313/tags/hackthebox/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/hackthebox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/tags/tips/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/tips/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tryhackme</title>
+      <link>http://localhost:1313/tags/tryhackme/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/tryhackme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anonymity</title>
+      <link>http://localhost:1313/tags/anonymity/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/anonymity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dark Net</title>
+      <link>http://localhost:1313/tags/dark-net/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/dark-net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>File Sharing</title>
+      <link>http://localhost:1313/tags/file-sharing/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/file-sharing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Onionshare</title>
+      <link>http://localhost:1313/tags/onionshare/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/onionshare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

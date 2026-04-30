@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honeypot Sec</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Honeypot Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto@contact@honeypotsec.com (h0neyp0t)</managingEditor>
+    <webMaster>mailto@contact@honeypotsec.com (h0neyp0t)</webMaster>
+    <copyright>© 2026 h0neyp0t</copyright>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I Stopped My 101-Day TryHackMe Streak (And Why You Should Too)</title>
+      <link>http://localhost:1313/posts/why-i-stopped-my-101-day-tryhackme-streak-and-why-you-should-too/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/posts/why-i-stopped-my-101-day-tryhackme-streak-and-why-you-should-too/</guid>
+      <description>Is gamification killing your progress? I quit my 101-day TryHackMe streak to escape the &amp;lsquo;Duolingo trap&amp;rsquo; and focus on real cybersecurity skills. Here is why you should prioritize learning over points.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-i-stopped-my-101-day-tryhackme-streak-and-why-you-should-too/cover.webp" />
+    </item>
+    
+    <item>
+      <title>Whoami</title>
+      <link>http://localhost:1313/whoami/</link>
+      <pubDate>Thu, 01 Jan 2026 17:40:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>Meet h0neyp0t, an ethical hacker and SysAdmin passionate about offensive and defensive security. Discover my mission to share cybersecurity knowledge through technical content and writeups.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/whoami/feature_background.webp" />
+    </item>
+    
+    <item>
+      <title>How To Send Sensitive Files On The Dark Net With OnionShare</title>
+      <link>http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>mailto@contact@honeypotsec.com (h0neyp0t)</author>
+      <guid>http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/</guid>
+      <description>This article explains how to securely send sensitive files over the dark net using OnionShare. Learn step-by-step instructions and understand the importance of privacy and anonymity in digital communications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-send-sensitive-files-on-the-dark-net-with-onionshare/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
